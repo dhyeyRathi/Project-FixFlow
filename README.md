@@ -1,7 +1,7 @@
 
   # Complaint Management Website
 
-  This is a code bundle for Complaint Management Website. The original project is available at https://www.figma.com/design/jZQAy6C0MvsTWxNqqeomvA/Complaint-Management-Website.
+  This is a code bundle for Complaint Management Website.
 
   ## Running the code
 
